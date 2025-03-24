@@ -13,7 +13,7 @@ export default function FeaturedClinicSection() {
           <div className="bg-white rounded-lg overflow-hidden shadow-xl">
             <img 
               src="https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9a22a22c2331caf5d4a9.jpeg"
-              alt="Spade Medical Spa Team"
+              alt="Medical Spa Team"
               className="w-full h-full object-cover"
             />
           </div>

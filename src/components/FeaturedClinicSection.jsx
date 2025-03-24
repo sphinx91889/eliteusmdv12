@@ -12,7 +12,7 @@ export default function FeaturedClinicSection() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="bg-white rounded-lg overflow-hidden shadow-xl">
             <img 
-              src="https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9a22a22c2331caf5d4a96.jpeg"
+              src="https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9a22a22c2331caf5d4a9.jpeg"
               alt="Spade Medical Spa Team"
               className="w-full h-full object-cover"
             />
@@ -20,11 +20,11 @@ export default function FeaturedClinicSection() {
           
           <div>
             <h3 className="text-3xl font-bold mb-4 text-secondary">
-              OC Skin Medical Spa
+               Medical Spa
             </h3>
             
             <p className="text-primary-dark mb-6">
-              EliteUSMD assisted OC Skin  MedSpa in securing a qualified medical director 
+              EliteUSMD assisted MedSpa in securing a qualified medical director 
               and essential compliance documents when they launched their first location.
             </p>
             

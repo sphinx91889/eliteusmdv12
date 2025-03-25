@@ -12,7 +12,7 @@ export default function FeaturedClinicSection() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="bg-white rounded-lg overflow-hidden shadow-xl">
             <img 
-              src="https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9a22a22c2331caf5d4a9.jpeg"
+              src="https://storage.googleapis.com/msgsndr/8ngdMjJjmckUW3DffAfv/media/67e2e552c29f2435dc849a31.png"
               alt="Medical Spa Team"
               className="w-full h-full object-cover"
             />

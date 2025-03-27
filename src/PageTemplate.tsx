@@ -11,6 +11,107 @@ const PageTemplate: React.FC<PageMetaData> = ({
     <html lang="en">
       <head>
         <meta charset="UTF-8" />
+
+ <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+
+  <title>Medical Directors & Medspa Startup Consultants Nationwide | EliteUSMD</title>
+  <meta name="description" content="EliteUSMD connects medspa owners and entrepreneurs with licensed medical directors, legal compliance solutions, and turnkey consulting to launch and grow across the U.S." />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+  <link rel="canonical" href="https://www.eliteusmd.com/" />
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Medical Directors & Medspa Startup Consultants Nationwide | EliteUSMD" />
+  <meta property="og:description" content="EliteUSMD helps medspa startups secure medical directors and meet compliance regulations with ease. Nationwide coverage and expert guidance for your growth." />
+  <meta property="og:url" content="https://www.eliteusmd.com/" />
+  <meta property="og:site_name" content="EliteUSMD" />
+  <meta property="og:image" content="https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9862e4a8459017cc831c4.png" />
+  <meta property="og:updated_time" content="2025-03-27T00:00:00+00:00" />
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="EliteUSMD | Medical Directors & Medspa Startup Consultants Nationwide" />
+  <meta name="twitter:description" content="Consulting, compliance, and certified medical directors for your medspa startup. EliteUSMD supports your journey to success." />
+  <meta name="twitter:image" content="https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9862e4a8459017cc831c4.png" />
+  <meta name="twitter:site" content="@eliteusmd" />
+  <meta name="twitter:creator" content="@eliteusmd" />
+  <meta name="twitter:label1" content="Written by" />
+  <meta name="twitter:data1" content="EliteUSMD team" />
+  <meta name="twitter:label2" content="Time to read" />
+  <meta name="twitter:data2" content="1 minute" />
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://www.eliteusmd.com/#website",
+        "url": "https://www.eliteusmd.com",
+        "name": "EliteUSMD",
+        "description": "Nationwide medical director and compliance support for medspa businesses.",
+        "publisher": {
+          "@id": "https://www.eliteusmd.com/#organization"
+        },
+        "inLanguage": "en-US",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.eliteusmd.com/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://www.eliteusmd.com/#webpage",
+        "url": "https://www.eliteusmd.com",
+        "name": "Medical Directors & Medspa Startup Consultants Nationwide | EliteUSMD",
+        "datePublished": "2025-03-27T00:00:00+00:00",
+        "dateModified": "2025-03-27T00:00:00+00:00",
+        "isPartOf": {
+          "@id": "https://www.eliteusmd.com/#website"
+        },
+        "about": {
+          "@id": "https://www.eliteusmd.com/#organization"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "@id": "https://www.eliteusmd.com/#mainimage",
+          "url": "https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9862e4a8459017cc831c4.png",
+          "width": "1200",
+          "height": "630"
+        },
+        "inLanguage": "en-US",
+        "author": {
+          "@id": "https://www.eliteusmd.com/#person"
+        }
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://www.eliteusmd.com/#organization",
+        "name": "EliteUSMD",
+        "url": "https://www.eliteusmd.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9862e4a8459017cc831c4.png"
+        },
+        "sameAs": [
+          "https://www.instagram.com/eliteusmd",
+          "https://www.facebook.com/eliteusmd"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "1 (877) 665-0654",
+          "contactType": "Customer Service"
+        }
+      },
+          ]
+  }
+  </script>
+
+
         
         {/* Google Analytics */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-BH9EFT718K"></script>
@@ -22,6 +123,8 @@ const PageTemplate: React.FC<PageMetaData> = ({
             gtag('config', 'G-BH9EFT718K');
           `
         }} />
+
+        
         
         {/* Favicons */}
         <link rel="icon" type="image/x-icon" href="https://storage.googleapis.com/msgsndr/AV0uABeJizFuDAswYLbY/media/67d9862e5336578330e5c232.x-icon" />

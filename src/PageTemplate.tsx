@@ -211,6 +211,13 @@ const PageTemplate: React.FC<PageMetaData> = ({
         <section style={{ textAlign: 'center', padding: '3rem 1rem', color: 'white' }}>
           <h1>EliteUSMD: Expert Medical Director Services for Compliance & Safety</h1>
           <h2>Start Your Journey with EliteUSMD Today</h2>
+          <p style="max-width: 700px; margin: 1.5rem auto; font-size: 1.1rem; line-height: 1.7;">
+    EliteUSMD is your trusted partner for launching and scaling medspas, wellness clinics, and healthcare practices across the United States. We provide licensed medical directors, legal compliance guidance, and complete business formation solutions to help you meet regulatory requirements and operate with confidence. Whether you're a registered nurse looking to open your first medspa or an experienced entrepreneur expanding your footprint in the aesthetics space, our turnkey services are designed to support every step of your journey.
+    <br><br>
+    With a focus on safety, structure, and long-term scalability, we offer the tools and expert support you need to build a compliant, high-performing aesthetic business. From entity formation and state-by-state regulation navigation to medical oversight and operational consulting, EliteUSMD makes sure you’re not just opening your doors—but opening them the right way.
+    <br><br>
+    Start your journey with a team that understands the complexities of the industry and provides the clarity, structure, and support you need to succeed. Partner with EliteUSMD and build your business the smart, secure, and compliant way.
+  </p>
         </section>
       </body>
     </html>

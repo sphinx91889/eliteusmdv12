@@ -19,7 +19,7 @@ const PageTemplate: React.FC<PageMetaData> = ({
         <title>Medical Directors & Medspa Startup Consultants Nationwide | EliteUSMD</title>
         <meta
           name="description"
-          content="EliteUSMD connects medspa owners and entrepreneurs with licensed medical directors, legal compliance solutions, and turnkey consulting to launch and grow across the U.S."
+          content="EliteUSMD provides nationwide medical director services, compliance support, and business solutions for medspas, wellness clinics, and healthcare practices looking to launch, grow, or stay compliant."
         />
         <meta
           name="robots"
@@ -36,7 +36,7 @@ const PageTemplate: React.FC<PageMetaData> = ({
         />
         <meta
           property="og:description"
-          content="EliteUSMD helps medspa startups secure medical directors and meet compliance regulations with ease. Nationwide coverage and expert guidance for your growth."
+          content="EliteUSMD provides nationwide medical director services, compliance support, and business solutions for medspas, wellness clinics, and healthcare practices looking to launch, grow, or stay compliant."
         />
         <meta property="og:url" content="https://www.eliteusmd.com/" />
         <meta property="og:site_name" content="EliteUSMD" />

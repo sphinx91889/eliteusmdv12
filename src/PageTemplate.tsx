@@ -15,7 +15,7 @@ const PageTemplate: React.FC<PageMetaData> = ({
           name="viewport"
           content="width=device-width, initial-scale=1, minimum-scale=1"
         />
-        <title>Medical Directors & Medspa Startup Consultants Nationwide | EliteUSMD</title>
+        <title>Medical Director Services & Medspa Startup Consultants Nationwide | EliteUSMD</title>
         <meta
           name="description"
           content="EliteUSMD provides nationwide medical director services, compliance support, and business solutions for medspas, wellness clinics, and healthcare practices looking to launch, grow, or stay compliant."
